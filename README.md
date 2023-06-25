@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahilsb5137
-- 👀 I’m interested in Embedded Systems.
-- 🌱 I’m currently learning FreeRTOS and practicing bare-metal programming. Have already started with STM32F411. 
+- 👀 My interest exists in Embedded Systems.
+- 🌱 I’m currently learning FreeRTOS and practicing bare-metal programming. My target is to learn Linux based Embedded Programming. 
 - 💞️ I’m looking to actively collaborate on github with my new tasks. 
 - 📫 You can reach me at sahilboble96@gmail.com
 
